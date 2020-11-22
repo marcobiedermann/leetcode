@@ -1,8 +1,8 @@
 {
   "name": "leetcode",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "My attempt of solving Leetcode problems.",
+  "private": true,
   "scripts": {
     "check": "tsc --noEmit",
     "format": "prettier --write .",
@@ -14,9 +14,15 @@
     "type": "git",
     "url": "git+https://github.com/marcobiedermann/leetcode.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "algorithms",
+    "leetcode",
+    "problems",
+    "problem-solving",
+    "solutions"
+  ],
+  "author": "Marco Biedermann",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/marcobiedermann/leetcode/issues"
   },
