@@ -41,7 +41,7 @@ npm run lint
 
 ### Testing
 
-Run tests using [Jest](https://jestjs.io/) testing framework.
+Run tests using [Vitest](https://vitest.dev/) testing framework.
 
 ```sh
 npm test

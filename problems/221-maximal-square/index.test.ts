@@ -1,3 +1,4 @@
+import { describe, expect, it } from 'vitest';
 import maximalSquare from '.';
 
 describe('maximalSquare', () => {

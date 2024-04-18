@@ -1,3 +1,4 @@
+import { describe, expect, it } from 'vitest';
 import countNodes from '.';
 import TreeNode from './tree-node';
 
