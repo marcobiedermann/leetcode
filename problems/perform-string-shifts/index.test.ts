@@ -1,3 +1,4 @@
+import { describe, expect, it } from 'vitest';
 import stringShift from '.';
 
 describe('stringShift', () => {

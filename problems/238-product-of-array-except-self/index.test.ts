@@ -1,3 +1,4 @@
+import { describe, expect, it } from 'vitest';
 import productExceptSelf from '.';
 
 describe('productExceptSelf', () => {
